@@ -1,7 +1,7 @@
 # Hi, I'm Tosin Amos Alegbemi 👋
 
 🎯 Data Analyst | 📊 Power BI | 📈 Excel | 🗄️ SQL  
-📍 Based in [Your Location]
+📍 Based in [Ikorodu, Lagos State.]
 
 ---
 
@@ -58,9 +58,9 @@ I enjoy solving real-world problems using data and continuously improving my ana
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
-- Portfolio: [Your Portfolio Website]
+- LinkedIn: [www.linkedin.com/in/tosin-amos-b52a9714b]
+- Email: [tosinamos2@gmail.com]
+- Portfolio: [https://github.com/tosinamos2-lab/tosinamos2-lab/blob/main/README.md]
 
 ---
 
