@@ -1,7 +1,7 @@
 # Hi, I'm Tosin Amos Alegbemi 👋
 
 🎯 Data Analyst | 📊 Power BI | 📈 Excel | 🗄️ SQL  
-📍 Based in [Ikorodu, Lagos State.]
+📍 Based in [Lagos, Nigeria.]
 
 ---
 
