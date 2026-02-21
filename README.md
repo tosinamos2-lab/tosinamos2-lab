@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Tosin Amos Alegbemi 👋
 
 🎯 Data Analyst | 📊 Power BI | 📈 Excel | 🗄️ SQL  
 📍 Based in [Your Location]
