@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**tosinamos2-lab/tosinamos2-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | 📊 Power BI | 📈 Excel | 🗄️ SQL  
+📍 Based in [Your Location]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a data analyst with experience in transforming raw data into actionable insights.  
+I specialize in data cleaning, analysis, visualization, and building interactive dashboards to support business decision-making.
+
+I enjoy solving real-world problems using data and continuously improving my analytical skills.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 📊 Data Visualization
+- Power BI (DAX, Data Modeling, Dashboard Design)
+- Excel (Pivot Tables, Power Query, Advanced Formulas)
+
+### 🗄️ Data Management
+- SQL (Joins, CTEs, Window Functions, Aggregations)
+- Data Cleaning & Transformation
+
+### 📈 Analysis Techniques
+- Exploratory Data Analysis (EDA)
+- KPI Reporting
+- Trend & Performance Analysis
+- Data Storytelling
+
+---
+
+## 📂 Projects
+
+### 📊 Sales Performance Dashboard (Power BI)
+- Built an interactive dashboard to track revenue, profit, and customer trends.
+- Implemented DAX measures for dynamic KPI calculations.
+- Improved reporting efficiency by 40%.
+
+### 🗄️ SQL Data Analysis Project
+- Wrote complex SQL queries to analyze customer behavior.
+- Used joins and window functions to generate insights.
+- Created summary reports for business stakeholders.
+
+### 📈 Excel Business Report Automation
+- Automated monthly reporting using Pivot Tables & formulas.
+- Reduced manual reporting time by 60%.
+
+---
+
+## 📌 What I'm Currently Working On
+- Improving advanced SQL skills
+- Building end-to-end data analytics portfolio projects
+- Learning Python for data analysis
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
+- Portfolio: [Your Portfolio Website]
+
+---
+
+⭐ Always open to collaboration and data-driven opportunities!
